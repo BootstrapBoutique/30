@@ -1,0 +1,12 @@
+body {
+  background:#ebebeb;
+}
+
+.text {
+  /*font-family: 'Bree Serif';*/
+  color:#666;
+  font-size:11px;
+  margin-bottom:10px;
+  padding:12px;
+  background:#fff;
+}
